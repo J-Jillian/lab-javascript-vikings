@@ -1,6 +1,6 @@
 // Soldier
 class Soldier {}
-
+console.log('test');
 // Viking
 class Viking {}
 
